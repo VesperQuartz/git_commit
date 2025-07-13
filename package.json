@@ -1,0 +1,16 @@
+{
+  "name": "git_commit",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@ai-sdk/openai": "^1.3.20",
+    "ai": "^4.3.10",
+    "zod": "^3.24.3"
+  }
+}
